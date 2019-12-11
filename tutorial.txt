@@ -5,7 +5,17 @@ DDL:
 	- Drop
 	- Alter
 	- Truncate
-DML
-DQL
-TCL
-DCL
+DML:
+	- Insert
+	- Update
+	- Delete
+	- Merge
+DQL:
+	- Select
+TCL:
+	-Commit
+	-Rollback
+	-Save point
+DCL:
+	-Grant
+	-Revoke	
