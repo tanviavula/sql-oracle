@@ -1,6 +1,10 @@
 SQL Commands
 
-DDL
+DDL:
+	- Create
+	- Drop
+	- Alter
+	- Truncate
 DML
 DQL
 TCL
