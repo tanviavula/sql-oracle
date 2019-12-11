@@ -1,0 +1,7 @@
+SQL Commands
+
+DDL
+DML
+DQL
+TCL
+DCL
